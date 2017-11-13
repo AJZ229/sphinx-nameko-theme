@@ -19,6 +19,7 @@
 
 body {
     font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-size: 120%;
     margin: 0;
     padding: 0;
     background-color: rgb(252, 252, 252);
