@@ -2,7 +2,7 @@
 Sphinx Nameko Theme
 ===================
 
-Forked from the official _`theme <https://github.com/onefinestay/sphinx-nameko-theme>`_ for `nameko <https://github.com/onefinestay/nameko>`_.
+Forked from the official `theme <https://github.com/onefinestay/sphinx-nameko-theme>`_ for `nameko <https://github.com/onefinestay/nameko>`_.
 
 **Changes so far:**
 - Increase font size to 120%
