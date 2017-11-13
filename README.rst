@@ -13,7 +13,7 @@ Nameko theme was originally forked from `Sphinx Readable Theme <https://github.c
 Installation and setup
 ======================
 
-**Make sure the PyPI version of ``sphinx-nameko-theme`` is uninstaled.
+**Make sure the PyPI version of ``sphinx-nameko-theme`` is uninstaled.**
 
 Clone repo then install::
 
